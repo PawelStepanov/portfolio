@@ -20,7 +20,7 @@
 
 *os*, *warnings*, *zipfile*, *pandas*, *matplotlib*, *numpy*, *scipy*, *sklearn*, *phik*, *faiss*, *seaborn*
 
-## Общий вывод
+## Вывод
 
 Для работы над проектом использовалась библиотека FAISS. Использовали:
 - IndexFlatL2 - используется в качестве шага квантования
