@@ -37,7 +37,7 @@ The dataset for this competition (both train and test) was generated from a deep
 - `Exercise Frequency` -> Frequency of exercise (Categorical: Daily, Weekly, Monthly, Rarely)
 - `Property Type` -> Type of property owned (Categorical: House, Apartment, Condo)
 
-## Цель
+## Goal
 
 The objective of this challenge is to predict insurance premiums based on various factors.
 
